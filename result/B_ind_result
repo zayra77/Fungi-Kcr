@@ -1,0 +1,2042 @@
+第1次独立测试
+epoch: 0
+training loss is 0.6082736253738403
+epoch: 1
+training loss is 0.5591437816619873
+epoch: 2
+training loss is 0.5445974469184875
+epoch: 3
+training loss is 0.500861406326294
+epoch: 4
+training loss is 0.47952863574028015
+epoch: 5
+training loss is 0.459384948015213
+epoch: 6
+training loss is 0.45328688621520996
+epoch: 7
+training loss is 0.4611092209815979
+epoch: 8
+training loss is 0.394967645406723
+epoch: 9
+training loss is 0.38975653052330017
+epoch: 10
+training loss is 0.4055132269859314
+epoch: 11
+training loss is 0.3561055064201355
+epoch: 12
+training loss is 0.35480934381484985
+epoch: 13
+training loss is 0.3450016379356384
+epoch: 14
+training loss is 0.3322733938694
+epoch: 15
+training loss is 0.3138963580131531
+epoch: 16
+training loss is 0.3022191822528839
+epoch: 17
+training loss is 0.3128136396408081
+epoch: 18
+training loss is 0.2912909686565399
+epoch: 19
+training loss is 0.2751582860946655
+epoch: 20
+training loss is 0.3084995448589325
+epoch: 21
+training loss is 0.31669166684150696
+epoch: 22
+training loss is 0.2588382661342621
+epoch: 23
+training loss is 0.23715122044086456
+epoch: 24
+training loss is 0.23293907940387726
+epoch: 25
+training loss is 0.22220967710018158
+epoch: 26
+training loss is 0.23474082350730896
+epoch: 27
+training loss is 0.22421959042549133
+epoch: 28
+training loss is 0.20303432643413544
+epoch: 29
+training loss is 0.17303892970085144
+epoch: 30
+training loss is 0.17888611555099487
+epoch: 31
+training loss is 0.19325608015060425
+epoch: 32
+training loss is 0.19950248301029205
+epoch: 33
+training loss is 0.1612541824579239
+epoch: 34
+training loss is 0.16383589804172516
+epoch: 35
+training loss is 0.14299912750720978
+epoch: 36
+training loss is 0.14593273401260376
+epoch: 37
+training loss is 0.14645086228847504
+epoch: 38
+training loss is 0.15464237332344055
+epoch: 39
+training loss is 0.13146378099918365
+epoch: 40
+training loss is 0.1287829428911209
+epoch: 41
+training loss is 0.1534794569015503
+epoch: 42
+training loss is 0.11693751066923141
+epoch: 43
+training loss is 0.1366025060415268
+epoch: 44
+training loss is 0.10874422639608383
+epoch: 45
+training loss is 0.1490444540977478
+epoch: 46
+training loss is 0.1164223924279213
+epoch: 47
+training loss is 0.11881234496831894
+epoch: 48
+training loss is 0.09775150567293167
+epoch: 49
+training loss is 0.09831199795007706
+epoch: 50
+training loss is 0.0976109430193901
+epoch: 51
+training loss is 0.09909062087535858
+epoch: 52
+training loss is 0.0810147225856781
+epoch: 53
+training loss is 0.0781451091170311
+epoch: 54
+training loss is 0.08637546747922897
+epoch: 55
+training loss is 0.0700341984629631
+epoch: 56
+training loss is 0.09196830540895462
+epoch: 57
+training loss is 0.07889072597026825
+epoch: 58
+training loss is 0.08994200825691223
+epoch: 59
+training loss is 0.06337175518274307
+epoch: 60
+training loss is 0.07261944562196732
+epoch: 61
+training loss is 0.06723178923130035
+epoch: 62
+training loss is 0.06532611697912216
+epoch: 63
+training loss is 0.05887685716152191
+epoch: 64
+training loss is 0.065147764980793
+epoch: 65
+training loss is 0.0742560401558876
+epoch: 66
+training loss is 0.06840061396360397
+epoch: 67
+training loss is 0.06531503796577454
+epoch: 68
+training loss is 0.08315575122833252
+epoch: 69
+training loss is 0.07247442752122879
+epoch: 70
+training loss is 0.05046295374631882
+epoch: 71
+training loss is 0.06653749197721481
+epoch: 72
+training loss is 0.04716036468744278
+epoch: 73
+training loss is 0.060561031103134155
+epoch: 74
+training loss is 0.04843265190720558
+epoch: 75
+training loss is 0.07606267184019089
+epoch: 76
+training loss is 0.04058115556836128
+epoch: 77
+training loss is 0.04988096281886101
+epoch: 78
+training loss is 0.047969866544008255
+epoch: 79
+training loss is 0.06249799579381943
+epoch: 80
+training loss is 0.05795707181096077
+epoch: 81
+training loss is 0.044477127492427826
+epoch: 82
+training loss is 0.05424093082547188
+epoch: 83
+training loss is 0.05760696157813072
+epoch: 84
+training loss is 0.049854230135679245
+epoch: 85
+training loss is 0.03597843274474144
+epoch: 86
+training loss is 0.062639981508255
+epoch: 87
+training loss is 0.03163488581776619
+epoch: 88
+training loss is 0.05100392550230026
+epoch: 89
+training loss is 0.07140567898750305
+epoch: 90
+training loss is 0.040919654071331024
+epoch: 91
+training loss is 0.045529864728450775
+epoch: 92
+training loss is 0.05758727341890335
+epoch: 93
+training loss is 0.030407007783651352
+epoch: 94
+training loss is 0.033072877675294876
+epoch: 95
+training loss is 0.04274735972285271
+epoch: 96
+training loss is 0.03340485319495201
+epoch: 97
+training loss is 0.05894971638917923
+epoch: 98
+training loss is 0.025791598483920097
+epoch: 99
+training loss is 0.03383835405111313
+[Valid TP is 589,FP is 149,TN is 614,FN is 174]
+Valid : SN is 0.7719528178243774,SP is 0.8047182175622543,Pr is 0.7981029810298103,ACC is 0.7883355176933159,F1-score is 0.7848101265822784,MCC is 0.5769808336230208,
+ AUC is 0.8702576056093677, recall is 0.7719528178243774
+第2次独立测试
+epoch: 0
+training loss is 0.624406099319458
+epoch: 1
+training loss is 0.5667330622673035
+epoch: 2
+training loss is 0.5373303890228271
+epoch: 3
+training loss is 0.5091269612312317
+epoch: 4
+training loss is 0.48647522926330566
+epoch: 5
+training loss is 0.4753402769565582
+epoch: 6
+training loss is 0.447036474943161
+epoch: 7
+training loss is 0.43182823061943054
+epoch: 8
+training loss is 0.40705209970474243
+epoch: 9
+training loss is 0.39435917139053345
+epoch: 10
+training loss is 0.4190194606781006
+epoch: 11
+training loss is 0.3641017973423004
+epoch: 12
+training loss is 0.3494097888469696
+epoch: 13
+training loss is 0.33432629704475403
+epoch: 14
+training loss is 0.3310262858867645
+epoch: 15
+training loss is 0.3016550540924072
+epoch: 16
+training loss is 0.3056541979312897
+epoch: 17
+training loss is 0.33499598503112793
+epoch: 18
+training loss is 0.30268627405166626
+epoch: 19
+training loss is 0.29265180230140686
+epoch: 20
+training loss is 0.27153632044792175
+epoch: 21
+training loss is 0.2695508599281311
+epoch: 22
+training loss is 0.2690836787223816
+epoch: 23
+training loss is 0.25098079442977905
+epoch: 24
+training loss is 0.2684645354747772
+epoch: 25
+training loss is 0.21270228922367096
+epoch: 26
+training loss is 0.2148744910955429
+epoch: 27
+training loss is 0.19959181547164917
+epoch: 28
+training loss is 0.20123398303985596
+epoch: 29
+training loss is 0.18500852584838867
+epoch: 30
+training loss is 0.18843179941177368
+epoch: 31
+training loss is 0.18646204471588135
+epoch: 32
+training loss is 0.18068009614944458
+epoch: 33
+training loss is 0.18354031443595886
+epoch: 34
+training loss is 0.17041926085948944
+epoch: 35
+training loss is 0.17283514142036438
+epoch: 36
+training loss is 0.16332320868968964
+epoch: 37
+training loss is 0.15347936749458313
+epoch: 38
+training loss is 0.16009864211082458
+epoch: 39
+training loss is 0.1377161294221878
+epoch: 40
+training loss is 0.13268902897834778
+epoch: 41
+training loss is 0.12315919250249863
+epoch: 42
+training loss is 0.13093331456184387
+epoch: 43
+training loss is 0.14832672476768494
+epoch: 44
+training loss is 0.10549771785736084
+epoch: 45
+training loss is 0.10626483708620071
+epoch: 46
+training loss is 0.13244684040546417
+epoch: 47
+training loss is 0.11872292309999466
+epoch: 48
+training loss is 0.12561345100402832
+epoch: 49
+training loss is 0.14724336564540863
+epoch: 50
+training loss is 0.10234891623258591
+epoch: 51
+training loss is 0.09952368587255478
+epoch: 52
+training loss is 0.0844738632440567
+epoch: 53
+training loss is 0.08523548394441605
+epoch: 54
+training loss is 0.10240370780229568
+epoch: 55
+training loss is 0.08977774530649185
+epoch: 56
+training loss is 0.082709401845932
+epoch: 57
+training loss is 0.07317586243152618
+epoch: 58
+training loss is 0.08684320002794266
+epoch: 59
+training loss is 0.07047714293003082
+epoch: 60
+training loss is 0.0993255078792572
+epoch: 61
+training loss is 0.06641468405723572
+epoch: 62
+training loss is 0.07047950476408005
+epoch: 63
+training loss is 0.05795397236943245
+epoch: 64
+training loss is 0.12269864231348038
+epoch: 65
+training loss is 0.08895735442638397
+epoch: 66
+training loss is 0.07141803950071335
+epoch: 67
+training loss is 0.0845184400677681
+epoch: 68
+training loss is 0.09197886288166046
+epoch: 69
+training loss is 0.058055076748132706
+epoch: 70
+training loss is 0.06865308433771133
+epoch: 71
+training loss is 0.046798933297395706
+epoch: 72
+training loss is 0.057399675250053406
+epoch: 73
+training loss is 0.06120464950799942
+epoch: 74
+training loss is 0.050447382032871246
+epoch: 75
+training loss is 0.049681276082992554
+epoch: 76
+training loss is 0.05876849591732025
+epoch: 77
+training loss is 0.07993139326572418
+epoch: 78
+training loss is 0.06441347301006317
+epoch: 79
+training loss is 0.057743530720472336
+epoch: 80
+training loss is 0.05093223229050636
+epoch: 81
+training loss is 0.06353555619716644
+epoch: 82
+training loss is 0.04194159433245659
+epoch: 83
+training loss is 0.05005446448922157
+epoch: 84
+training loss is 0.05866950377821922
+epoch: 85
+training loss is 0.04132014885544777
+epoch: 86
+training loss is 0.04102669283747673
+epoch: 87
+training loss is 0.03565394505858421
+epoch: 88
+training loss is 0.04130828380584717
+epoch: 89
+training loss is 0.037283122539520264
+epoch: 90
+training loss is 0.03869391605257988
+epoch: 91
+training loss is 0.03949843719601631
+epoch: 92
+training loss is 0.04617853835225105
+epoch: 93
+training loss is 0.05549894645810127
+epoch: 94
+training loss is 0.03637101128697395
+epoch: 95
+training loss is 0.028795143589377403
+epoch: 96
+training loss is 0.04699746519327164
+epoch: 97
+training loss is 0.04037609323859215
+epoch: 98
+training loss is 0.03601618856191635
+epoch: 99
+training loss is 0.05758558213710785
+[Valid TP is 580,FP is 141,TN is 622,FN is 183]
+Valid : SN is 0.7601572739187418,SP is 0.8152031454783748,Pr is 0.8044382801664355,ACC is 0.7876802096985583,F1-score is 0.7816711590296496,MCC is 0.5762340901845753,
+ AUC is 0.8714462638855727, recall is 0.7601572739187418
+第3次独立测试
+epoch: 0
+training loss is 0.6025466918945312
+epoch: 1
+training loss is 0.5557155609130859
+epoch: 2
+training loss is 0.5268012285232544
+epoch: 3
+training loss is 0.4999007284641266
+epoch: 4
+training loss is 0.48540934920310974
+epoch: 5
+training loss is 0.4685622751712799
+epoch: 6
+training loss is 0.43155744671821594
+epoch: 7
+training loss is 0.4028860926628113
+epoch: 8
+training loss is 0.4174651503562927
+epoch: 9
+training loss is 0.3773030936717987
+epoch: 10
+training loss is 0.3621356785297394
+epoch: 11
+training loss is 0.4201001226902008
+epoch: 12
+training loss is 0.37246930599212646
+epoch: 13
+training loss is 0.3337031900882721
+epoch: 14
+training loss is 0.3284948170185089
+epoch: 15
+training loss is 0.29286736249923706
+epoch: 16
+training loss is 0.27456727623939514
+epoch: 17
+training loss is 0.2854543924331665
+epoch: 18
+training loss is 0.26500001549720764
+epoch: 19
+training loss is 0.26768600940704346
+epoch: 20
+training loss is 0.25836411118507385
+epoch: 21
+training loss is 0.2613585591316223
+epoch: 22
+training loss is 0.2569621503353119
+epoch: 23
+training loss is 0.21808016300201416
+epoch: 24
+training loss is 0.23084022104740143
+epoch: 25
+training loss is 0.21602514386177063
+epoch: 26
+training loss is 0.21839788556098938
+epoch: 27
+training loss is 0.2308252453804016
+epoch: 28
+training loss is 0.18771344423294067
+epoch: 29
+training loss is 0.22739027440547943
+epoch: 30
+training loss is 0.1729176789522171
+epoch: 31
+training loss is 0.18864238262176514
+epoch: 32
+training loss is 0.16520129144191742
+epoch: 33
+training loss is 0.1546514481306076
+epoch: 34
+training loss is 0.16009421646595
+epoch: 35
+training loss is 0.19644565880298615
+epoch: 36
+training loss is 0.13745719194412231
+epoch: 37
+training loss is 0.1335466504096985
+epoch: 38
+training loss is 0.1206836923956871
+epoch: 39
+training loss is 0.1324336975812912
+epoch: 40
+training loss is 0.13013701140880585
+epoch: 41
+training loss is 0.13880623877048492
+epoch: 42
+training loss is 0.1164148598909378
+epoch: 43
+training loss is 0.10677679628133774
+epoch: 44
+training loss is 0.11990098655223846
+epoch: 45
+training loss is 0.10862024128437042
+epoch: 46
+training loss is 0.1342487335205078
+epoch: 47
+training loss is 0.09460710734128952
+epoch: 48
+training loss is 0.0879163071513176
+epoch: 49
+training loss is 0.10485620051622391
+epoch: 50
+training loss is 0.10060540586709976
+epoch: 51
+training loss is 0.08270519226789474
+epoch: 52
+training loss is 0.13205833733081818
+epoch: 53
+training loss is 0.08151102066040039
+epoch: 54
+training loss is 0.0730079635977745
+epoch: 55
+training loss is 0.08485718816518784
+epoch: 56
+training loss is 0.10043156892061234
+epoch: 57
+training loss is 0.06893832236528397
+epoch: 58
+training loss is 0.07350069284439087
+epoch: 59
+training loss is 0.10110754519701004
+epoch: 60
+training loss is 0.08505494892597198
+epoch: 61
+training loss is 0.05926152691245079
+epoch: 62
+training loss is 0.06098368763923645
+epoch: 63
+training loss is 0.07387230545282364
+epoch: 64
+training loss is 0.05587833374738693
+epoch: 65
+training loss is 0.06428519636392593
+epoch: 66
+training loss is 0.057004183530807495
+epoch: 67
+training loss is 0.06834818422794342
+epoch: 68
+training loss is 0.054695822298526764
+epoch: 69
+training loss is 0.066041000187397
+epoch: 70
+training loss is 0.05580483749508858
+epoch: 71
+training loss is 0.04948427528142929
+epoch: 72
+training loss is 0.05490337312221527
+epoch: 73
+training loss is 0.054882265627384186
+epoch: 74
+training loss is 0.04499898850917816
+epoch: 75
+training loss is 0.043950218707323074
+epoch: 76
+training loss is 0.0462564155459404
+epoch: 77
+training loss is 0.06399311870336533
+epoch: 78
+training loss is 0.041239745914936066
+epoch: 79
+training loss is 0.053145475685596466
+epoch: 80
+training loss is 0.059988416731357574
+epoch: 81
+training loss is 0.05575286224484444
+epoch: 82
+training loss is 0.052876438945531845
+epoch: 83
+training loss is 0.041865024715662
+epoch: 84
+training loss is 0.04452260211110115
+epoch: 85
+training loss is 0.04263630136847496
+epoch: 86
+training loss is 0.05333014950156212
+epoch: 87
+training loss is 0.03286037966609001
+epoch: 88
+training loss is 0.05158298462629318
+epoch: 89
+training loss is 0.04835396260023117
+epoch: 90
+training loss is 0.04288315773010254
+epoch: 91
+training loss is 0.04056466743350029
+epoch: 92
+training loss is 0.04755743592977524
+epoch: 93
+training loss is 0.053553760051727295
+epoch: 94
+training loss is 0.05207592993974686
+epoch: 95
+training loss is 0.03286983072757721
+epoch: 96
+training loss is 0.032338641583919525
+epoch: 97
+training loss is 0.049009956419467926
+epoch: 98
+training loss is 0.04049605131149292
+epoch: 99
+training loss is 0.03507648780941963
+[Valid TP is 580,FP is 136,TN is 627,FN is 183]
+Valid : SN is 0.7601572739187418,SP is 0.8217562254259502,Pr is 0.8100558659217877,ACC is 0.790956749672346,F1-score is 0.7843137254901961,MCC is 0.5830206664047141,
+ AUC is 0.8735865358684506, recall is 0.7601572739187418
+第4次独立测试
+epoch: 0
+training loss is 0.6269875764846802
+epoch: 1
+training loss is 0.5634616613388062
+epoch: 2
+training loss is 0.5475447773933411
+epoch: 3
+training loss is 0.5192660689353943
+epoch: 4
+training loss is 0.500238835811615
+epoch: 5
+training loss is 0.5013726949691772
+epoch: 6
+training loss is 0.4410136342048645
+epoch: 7
+training loss is 0.41443687677383423
+epoch: 8
+training loss is 0.3962900638580322
+epoch: 9
+training loss is 0.38065305352211
+epoch: 10
+training loss is 0.3741440773010254
+epoch: 11
+training loss is 0.3676944077014923
+epoch: 12
+training loss is 0.36185893416404724
+epoch: 13
+training loss is 0.326551228761673
+epoch: 14
+training loss is 0.3150796890258789
+epoch: 15
+training loss is 0.302040159702301
+epoch: 16
+training loss is 0.2904757857322693
+epoch: 17
+training loss is 0.3002694547176361
+epoch: 18
+training loss is 0.2790547013282776
+epoch: 19
+training loss is 0.27899622917175293
+epoch: 20
+training loss is 0.26303133368492126
+epoch: 21
+training loss is 0.25599417090415955
+epoch: 22
+training loss is 0.2804095149040222
+epoch: 23
+training loss is 0.25491660833358765
+epoch: 24
+training loss is 0.22521644830703735
+epoch: 25
+training loss is 0.23065118491649628
+epoch: 26
+training loss is 0.2319575846195221
+epoch: 27
+training loss is 0.2082311362028122
+epoch: 28
+training loss is 0.18202973902225494
+epoch: 29
+training loss is 0.20096123218536377
+epoch: 30
+training loss is 0.19005921483039856
+epoch: 31
+training loss is 0.16829076409339905
+epoch: 32
+training loss is 0.15901082754135132
+epoch: 33
+training loss is 0.17746765911579132
+epoch: 34
+training loss is 0.16284658014774323
+epoch: 35
+training loss is 0.1551143378019333
+epoch: 36
+training loss is 0.1425565779209137
+epoch: 37
+training loss is 0.1433698982000351
+epoch: 38
+training loss is 0.15169058740139008
+epoch: 39
+training loss is 0.1307181715965271
+epoch: 40
+training loss is 0.14118337631225586
+epoch: 41
+training loss is 0.1213899478316307
+epoch: 42
+training loss is 0.1365918666124344
+epoch: 43
+training loss is 0.11564113199710846
+epoch: 44
+training loss is 0.11855815351009369
+epoch: 45
+training loss is 0.10283290594816208
+epoch: 46
+training loss is 0.12800492346286774
+epoch: 47
+training loss is 0.10255589336156845
+epoch: 48
+training loss is 0.0913563221693039
+epoch: 49
+training loss is 0.09675919264554977
+epoch: 50
+training loss is 0.09012916684150696
+epoch: 51
+training loss is 0.10435163229703903
+epoch: 52
+training loss is 0.09773818403482437
+epoch: 53
+training loss is 0.11484415084123611
+epoch: 54
+training loss is 0.0862443670630455
+epoch: 55
+training loss is 0.0919225737452507
+epoch: 56
+training loss is 0.07259296625852585
+epoch: 57
+training loss is 0.08720792084932327
+epoch: 58
+training loss is 0.074313685297966
+epoch: 59
+training loss is 0.07377497106790543
+epoch: 60
+training loss is 0.08081041276454926
+epoch: 61
+training loss is 0.07718294113874435
+epoch: 62
+training loss is 0.059667762368917465
+epoch: 63
+training loss is 0.08174613118171692
+epoch: 64
+training loss is 0.06828576326370239
+epoch: 65
+training loss is 0.07399001717567444
+epoch: 66
+training loss is 0.055195651948451996
+epoch: 67
+training loss is 0.051867444068193436
+epoch: 68
+training loss is 0.060210298746824265
+epoch: 69
+training loss is 0.06679685413837433
+epoch: 70
+training loss is 0.05270237475633621
+epoch: 71
+training loss is 0.05670915171504021
+epoch: 72
+training loss is 0.0649171695113182
+epoch: 73
+training loss is 0.04534858465194702
+epoch: 74
+training loss is 0.06041550636291504
+epoch: 75
+training loss is 0.04547545313835144
+epoch: 76
+training loss is 0.040267463773489
+epoch: 77
+training loss is 0.07698428630828857
+epoch: 78
+training loss is 0.05191333219408989
+epoch: 79
+training loss is 0.0605921596288681
+epoch: 80
+training loss is 0.040253400802612305
+epoch: 81
+training loss is 0.05589267984032631
+epoch: 82
+training loss is 0.0473809689283371
+epoch: 83
+training loss is 0.05311312898993492
+epoch: 84
+training loss is 0.038733065128326416
+epoch: 85
+training loss is 0.03905097022652626
+epoch: 86
+training loss is 0.03377396985888481
+epoch: 87
+training loss is 0.04667945206165314
+epoch: 88
+training loss is 0.03159439563751221
+epoch: 89
+training loss is 0.03495647758245468
+epoch: 90
+training loss is 0.043641701340675354
+epoch: 91
+training loss is 0.04833830147981644
+epoch: 92
+training loss is 0.038217153400182724
+epoch: 93
+training loss is 0.034528955817222595
+epoch: 94
+training loss is 0.043310441076755524
+epoch: 95
+training loss is 0.04777420684695244
+epoch: 96
+training loss is 0.03553595766425133
+epoch: 97
+training loss is 0.032367974519729614
+epoch: 98
+training loss is 0.0401245579123497
+epoch: 99
+training loss is 0.0369521826505661
+[Valid TP is 562,FP is 127,TN is 636,FN is 201]
+Valid : SN is 0.7365661861074705,SP is 0.8335517693315858,Pr is 0.8156748911465893,ACC is 0.7850589777195282,F1-score is 0.7741046831955923,MCC is 0.5728183434535011,
+ AUC is 0.8729097564452934, recall is 0.7365661861074705
+第5次独立测试
+epoch: 0
+training loss is 0.6321804523468018
+epoch: 1
+training loss is 0.5640249848365784
+epoch: 2
+training loss is 0.5261133909225464
+epoch: 3
+training loss is 0.508934497833252
+epoch: 4
+training loss is 0.4888922870159149
+epoch: 5
+training loss is 0.4747605621814728
+epoch: 6
+training loss is 0.460462361574173
+epoch: 7
+training loss is 0.4300781488418579
+epoch: 8
+training loss is 0.42336055636405945
+epoch: 9
+training loss is 0.39582374691963196
+epoch: 10
+training loss is 0.3852778375148773
+epoch: 11
+training loss is 0.35075774788856506
+epoch: 12
+training loss is 0.35066595673561096
+epoch: 13
+training loss is 0.43670928478240967
+epoch: 14
+training loss is 0.3044991195201874
+epoch: 15
+training loss is 0.30867525935173035
+epoch: 16
+training loss is 0.2930108308792114
+epoch: 17
+training loss is 0.2888108491897583
+epoch: 18
+training loss is 0.31604301929473877
+epoch: 19
+training loss is 0.2921349108219147
+epoch: 20
+training loss is 0.26459601521492004
+epoch: 21
+training loss is 0.25796496868133545
+epoch: 22
+training loss is 0.26953205466270447
+epoch: 23
+training loss is 0.2675265967845917
+epoch: 24
+training loss is 0.2239270806312561
+epoch: 25
+training loss is 0.24047544598579407
+epoch: 26
+training loss is 0.20375390350818634
+epoch: 27
+training loss is 0.19725553691387177
+epoch: 28
+training loss is 0.20995265245437622
+epoch: 29
+training loss is 0.18184173107147217
+epoch: 30
+training loss is 0.19844479858875275
+epoch: 31
+training loss is 0.1651870757341385
+epoch: 32
+training loss is 0.21207469701766968
+epoch: 33
+training loss is 0.18869458138942719
+epoch: 34
+training loss is 0.14577075839042664
+epoch: 35
+training loss is 0.13803984224796295
+epoch: 36
+training loss is 0.13133949041366577
+epoch: 37
+training loss is 0.16709531843662262
+epoch: 38
+training loss is 0.1515878587961197
+epoch: 39
+training loss is 0.14062082767486572
+epoch: 40
+training loss is 0.13669228553771973
+epoch: 41
+training loss is 0.13501203060150146
+epoch: 42
+training loss is 0.13882803916931152
+epoch: 43
+training loss is 0.12275482714176178
+epoch: 44
+training loss is 0.11030445247888565
+epoch: 45
+training loss is 0.09988716244697571
+epoch: 46
+training loss is 0.11376331001520157
+epoch: 47
+training loss is 0.16184499859809875
+epoch: 48
+training loss is 0.11359895765781403
+epoch: 49
+training loss is 0.09086746722459793
+epoch: 50
+training loss is 0.11995268613100052
+epoch: 51
+training loss is 0.09411092847585678
+epoch: 52
+training loss is 0.09652939438819885
+epoch: 53
+training loss is 0.09545974433422089
+epoch: 54
+training loss is 0.06975080817937851
+epoch: 55
+training loss is 0.089079350233078
+epoch: 56
+training loss is 0.0838993564248085
+epoch: 57
+training loss is 0.0778479129076004
+epoch: 58
+training loss is 0.09432516992092133
+epoch: 59
+training loss is 0.08198744803667068
+epoch: 60
+training loss is 0.06576357036828995
+epoch: 61
+training loss is 0.07730957865715027
+epoch: 62
+training loss is 0.08812861889600754
+epoch: 63
+training loss is 0.06273657828569412
+epoch: 64
+training loss is 0.05700567737221718
+epoch: 65
+training loss is 0.061584990471601486
+epoch: 66
+training loss is 0.06072067469358444
+epoch: 67
+training loss is 0.0637311339378357
+epoch: 68
+training loss is 0.055755000561475754
+epoch: 69
+training loss is 0.07840985059738159
+epoch: 70
+training loss is 0.06181340292096138
+epoch: 71
+training loss is 0.05658867210149765
+epoch: 72
+training loss is 0.05261729285120964
+epoch: 73
+training loss is 0.06115700677037239
+epoch: 74
+training loss is 0.055036164820194244
+epoch: 75
+training loss is 0.048775456845760345
+epoch: 76
+training loss is 0.044006604701280594
+epoch: 77
+training loss is 0.04507207125425339
+epoch: 78
+training loss is 0.05682363733649254
+epoch: 79
+training loss is 0.04770444706082344
+epoch: 80
+training loss is 0.07364614307880402
+epoch: 81
+training loss is 0.04427262768149376
+epoch: 82
+training loss is 0.05857706815004349
+epoch: 83
+training loss is 0.053491536527872086
+epoch: 84
+training loss is 0.03610521927475929
+epoch: 85
+training loss is 0.03836264833807945
+epoch: 86
+training loss is 0.048955678939819336
+epoch: 87
+training loss is 0.047116056084632874
+epoch: 88
+training loss is 0.041073109954595566
+epoch: 89
+training loss is 0.04425353184342384
+epoch: 90
+training loss is 0.038981303572654724
+epoch: 91
+training loss is 0.04524284973740578
+epoch: 92
+training loss is 0.03363880142569542
+epoch: 93
+training loss is 0.029158851131796837
+epoch: 94
+training loss is 0.04942185431718826
+epoch: 95
+training loss is 0.03835167735815048
+epoch: 96
+training loss is 0.03622344881296158
+epoch: 97
+training loss is 0.038696277886629105
+epoch: 98
+training loss is 0.034301985055208206
+epoch: 99
+training loss is 0.03493038937449455
+[Valid TP is 587,FP is 152,TN is 611,FN is 176]
+Valid : SN is 0.7693315858453473,SP is 0.8007863695937091,Pr is 0.7943166441136671,ACC is 0.7850589777195282,F1-score is 0.7816245006657789,MCC is 0.5704002032266728,
+ AUC is 0.8734594250123247, recall is 0.7693315858453473
+第6次独立测试
+epoch: 0
+training loss is 0.61214280128479
+epoch: 1
+training loss is 0.5821958184242249
+epoch: 2
+training loss is 0.5303851366043091
+epoch: 3
+training loss is 0.5048525929450989
+epoch: 4
+training loss is 0.4990094006061554
+epoch: 5
+training loss is 0.46153414249420166
+epoch: 6
+training loss is 0.4715166985988617
+epoch: 7
+training loss is 0.433065801858902
+epoch: 8
+training loss is 0.40762433409690857
+epoch: 9
+training loss is 0.3957326114177704
+epoch: 10
+training loss is 0.37347984313964844
+epoch: 11
+training loss is 0.35702234506607056
+epoch: 12
+training loss is 0.37594670057296753
+epoch: 13
+training loss is 0.3225616216659546
+epoch: 14
+training loss is 0.3350318372249603
+epoch: 15
+training loss is 0.3461012542247772
+epoch: 16
+training loss is 0.31521934270858765
+epoch: 17
+training loss is 0.31078898906707764
+epoch: 18
+training loss is 0.27129125595092773
+epoch: 19
+training loss is 0.27277904748916626
+epoch: 20
+training loss is 0.29766908288002014
+epoch: 21
+training loss is 0.2370605617761612
+epoch: 22
+training loss is 0.2561171054840088
+epoch: 23
+training loss is 0.21599534153938293
+epoch: 24
+training loss is 0.22574658691883087
+epoch: 25
+training loss is 0.23841755092144012
+epoch: 26
+training loss is 0.22514639794826508
+epoch: 27
+training loss is 0.23451168835163116
+epoch: 28
+training loss is 0.20342597365379333
+epoch: 29
+training loss is 0.17871719598770142
+epoch: 30
+training loss is 0.19089221954345703
+epoch: 31
+training loss is 0.17906710505485535
+epoch: 32
+training loss is 0.1733415722846985
+epoch: 33
+training loss is 0.15764302015304565
+epoch: 34
+training loss is 0.17592303454875946
+epoch: 35
+training loss is 0.1721372902393341
+epoch: 36
+training loss is 0.14955274760723114
+epoch: 37
+training loss is 0.16687382757663727
+epoch: 38
+training loss is 0.13229021430015564
+epoch: 39
+training loss is 0.12381584942340851
+epoch: 40
+training loss is 0.15755486488342285
+epoch: 41
+training loss is 0.14289525151252747
+epoch: 42
+training loss is 0.11691738665103912
+epoch: 43
+training loss is 0.13798493146896362
+epoch: 44
+training loss is 0.11652663350105286
+epoch: 45
+training loss is 0.12019334733486176
+epoch: 46
+training loss is 0.09940032660961151
+epoch: 47
+training loss is 0.09661824256181717
+epoch: 48
+training loss is 0.09685811400413513
+epoch: 49
+training loss is 0.12086179852485657
+epoch: 50
+training loss is 0.08924456685781479
+epoch: 51
+training loss is 0.09290225058794022
+epoch: 52
+training loss is 0.1029156818985939
+epoch: 53
+training loss is 0.0915021002292633
+epoch: 54
+training loss is 0.12028293311595917
+epoch: 55
+training loss is 0.08492212742567062
+epoch: 56
+training loss is 0.08475369960069656
+epoch: 57
+training loss is 0.08377088606357574
+epoch: 58
+training loss is 0.07870151847600937
+epoch: 59
+training loss is 0.0745057612657547
+epoch: 60
+training loss is 0.09382674098014832
+epoch: 61
+training loss is 0.07977478951215744
+epoch: 62
+training loss is 0.05635148659348488
+epoch: 63
+training loss is 0.0695074200630188
+epoch: 64
+training loss is 0.06154543533921242
+epoch: 65
+training loss is 0.08197203278541565
+epoch: 66
+training loss is 0.058244019746780396
+epoch: 67
+training loss is 0.058509521186351776
+epoch: 68
+training loss is 0.05945973843336105
+epoch: 69
+training loss is 0.062345538288354874
+epoch: 70
+training loss is 0.05935816466808319
+epoch: 71
+training loss is 0.08288722485303879
+epoch: 72
+training loss is 0.05452974885702133
+epoch: 73
+training loss is 0.07359332591295242
+epoch: 74
+training loss is 0.06484903395175934
+epoch: 75
+training loss is 0.05004623159766197
+epoch: 76
+training loss is 0.05429790914058685
+epoch: 77
+training loss is 0.052061740309000015
+epoch: 78
+training loss is 0.06717226654291153
+epoch: 79
+training loss is 0.0543564148247242
+epoch: 80
+training loss is 0.0581371933221817
+epoch: 81
+training loss is 0.05538555234670639
+epoch: 82
+training loss is 0.06083989143371582
+epoch: 83
+training loss is 0.0532715804874897
+epoch: 84
+training loss is 0.03681021183729172
+epoch: 85
+training loss is 0.034605108201503754
+epoch: 86
+training loss is 0.04074526205658913
+epoch: 87
+training loss is 0.05009846389293671
+epoch: 88
+training loss is 0.05271940678358078
+epoch: 89
+training loss is 0.04026271775364876
+epoch: 90
+training loss is 0.03936317190527916
+epoch: 91
+training loss is 0.03896921128034592
+epoch: 92
+training loss is 0.044367823749780655
+epoch: 93
+training loss is 0.037709299474954605
+epoch: 94
+training loss is 0.0340866893529892
+epoch: 95
+training loss is 0.04713861271739006
+epoch: 96
+training loss is 0.03278448060154915
+epoch: 97
+training loss is 0.04242405295372009
+epoch: 98
+training loss is 0.033335406333208084
+epoch: 99
+training loss is 0.035093698650598526
+[Valid TP is 614,FP is 164,TN is 599,FN is 149]
+Valid : SN is 0.8047182175622543,SP is 0.7850589777195282,Pr is 0.7892030848329049,ACC is 0.7948885976408913,F1-score is 0.7968851395197923,MCC is 0.589891198557707,
+ AUC is 0.8743191410054468, recall is 0.8047182175622543
+第7次独立测试
+epoch: 0
+training loss is 0.6045659184455872
+epoch: 1
+training loss is 0.5979669690132141
+epoch: 2
+training loss is 0.5531942844390869
+epoch: 3
+training loss is 0.5025537014007568
+epoch: 4
+training loss is 0.48534470796585083
+epoch: 5
+training loss is 0.46088844537734985
+epoch: 6
+training loss is 0.4330517649650574
+epoch: 7
+training loss is 0.46063029766082764
+epoch: 8
+training loss is 0.4112144410610199
+epoch: 9
+training loss is 0.4105057418346405
+epoch: 10
+training loss is 0.3699403703212738
+epoch: 11
+training loss is 0.3621021509170532
+epoch: 12
+training loss is 0.34228789806365967
+epoch: 13
+training loss is 0.33985865116119385
+epoch: 14
+training loss is 0.3439313769340515
+epoch: 15
+training loss is 0.3186114728450775
+epoch: 16
+training loss is 0.3068118989467621
+epoch: 17
+training loss is 0.3592686355113983
+epoch: 18
+training loss is 0.2983577847480774
+epoch: 19
+training loss is 0.2662660777568817
+epoch: 20
+training loss is 0.26647359132766724
+epoch: 21
+training loss is 0.24523301422595978
+epoch: 22
+training loss is 0.24252305924892426
+epoch: 23
+training loss is 0.2449411004781723
+epoch: 24
+training loss is 0.2452239990234375
+epoch: 25
+training loss is 0.2919926047325134
+epoch: 26
+training loss is 0.23320072889328003
+epoch: 27
+training loss is 0.2378937005996704
+epoch: 28
+training loss is 0.1940094232559204
+epoch: 29
+training loss is 0.1908944994211197
+epoch: 30
+training loss is 0.17794284224510193
+epoch: 31
+training loss is 0.23317255079746246
+epoch: 32
+training loss is 0.1628538817167282
+epoch: 33
+training loss is 0.16326279938220978
+epoch: 34
+training loss is 0.16272151470184326
+epoch: 35
+training loss is 0.1492646187543869
+epoch: 36
+training loss is 0.1439124494791031
+epoch: 37
+training loss is 0.1405668556690216
+epoch: 38
+training loss is 0.14866326749324799
+epoch: 39
+training loss is 0.13965746760368347
+epoch: 40
+training loss is 0.11811095476150513
+epoch: 41
+training loss is 0.12444756180047989
+epoch: 42
+training loss is 0.14140866696834564
+epoch: 43
+training loss is 0.12985312938690186
+epoch: 44
+training loss is 0.13644063472747803
+epoch: 45
+training loss is 0.11595384776592255
+epoch: 46
+training loss is 0.14221219718456268
+epoch: 47
+training loss is 0.10911846160888672
+epoch: 48
+training loss is 0.0996125116944313
+epoch: 49
+training loss is 0.10911784321069717
+epoch: 50
+training loss is 0.1176641657948494
+epoch: 51
+training loss is 0.11101533472537994
+epoch: 52
+training loss is 0.10489998012781143
+epoch: 53
+training loss is 0.09975600242614746
+epoch: 54
+training loss is 0.136860191822052
+epoch: 55
+training loss is 0.09134078025817871
+epoch: 56
+training loss is 0.08945296704769135
+epoch: 57
+training loss is 0.10531525313854218
+epoch: 58
+training loss is 0.08271580189466476
+epoch: 59
+training loss is 0.07709363102912903
+epoch: 60
+training loss is 0.08377652615308762
+epoch: 61
+training loss is 0.07677710801362991
+epoch: 62
+training loss is 0.06711844354867935
+epoch: 63
+training loss is 0.10882993042469025
+epoch: 64
+training loss is 0.07783007621765137
+epoch: 65
+training loss is 0.069423608481884
+epoch: 66
+training loss is 0.08694826811552048
+epoch: 67
+training loss is 0.09459341317415237
+epoch: 68
+training loss is 0.0681576281785965
+epoch: 69
+training loss is 0.06574012339115143
+epoch: 70
+training loss is 0.0886700302362442
+epoch: 71
+training loss is 0.06334636360406876
+epoch: 72
+training loss is 0.06727686524391174
+epoch: 73
+training loss is 0.05447578430175781
+epoch: 74
+training loss is 0.0646323710680008
+epoch: 75
+training loss is 0.0777929425239563
+epoch: 76
+training loss is 0.053708016872406006
+epoch: 77
+training loss is 0.055972255766391754
+epoch: 78
+training loss is 0.04800306260585785
+epoch: 79
+training loss is 0.04207385703921318
+epoch: 80
+training loss is 0.05292201042175293
+epoch: 81
+training loss is 0.07725463807582855
+epoch: 82
+training loss is 0.0486033633351326
+epoch: 83
+training loss is 0.07757969200611115
+epoch: 84
+training loss is 0.048139721155166626
+epoch: 85
+training loss is 0.05142079293727875
+epoch: 86
+training loss is 0.06114939600229263
+epoch: 87
+training loss is 0.05888638272881508
+epoch: 88
+training loss is 0.040599241852760315
+epoch: 89
+training loss is 0.05021391063928604
+epoch: 90
+training loss is 0.04059625416994095
+epoch: 91
+training loss is 0.0471661314368248
+epoch: 92
+training loss is 0.05162623152136803
+epoch: 93
+training loss is 0.05606721341609955
+epoch: 94
+training loss is 0.0489010289311409
+epoch: 95
+training loss is 0.04108782857656479
+epoch: 96
+training loss is 0.03456683084368706
+epoch: 97
+training loss is 0.033882420510053635
+epoch: 98
+training loss is 0.04867779091000557
+epoch: 99
+training loss is 0.03688368573784828
+[Valid TP is 586,FP is 145,TN is 618,FN is 177]
+Valid : SN is 0.7680209698558322,SP is 0.8099606815203145,Pr is 0.801641586867305,ACC is 0.7889908256880734,F1-score is 0.784471218206158,MCC is 0.5784906402888818,
+ AUC is 0.8717107918834566, recall is 0.7680209698558322
+第8次独立测试
+epoch: 0
+training loss is 0.6135091781616211
+epoch: 1
+training loss is 0.5648388266563416
+epoch: 2
+training loss is 0.5162428021430969
+epoch: 3
+training loss is 0.49716928601264954
+epoch: 4
+training loss is 0.4789043068885803
+epoch: 5
+training loss is 0.45889219641685486
+epoch: 6
+training loss is 0.46279177069664
+epoch: 7
+training loss is 0.43087124824523926
+epoch: 8
+training loss is 0.4180055558681488
+epoch: 9
+training loss is 0.42015767097473145
+epoch: 10
+training loss is 0.3886602222919464
+epoch: 11
+training loss is 0.4484737813472748
+epoch: 12
+training loss is 0.3395746350288391
+epoch: 13
+training loss is 0.33546802401542664
+epoch: 14
+training loss is 0.32574760913848877
+epoch: 15
+training loss is 0.31270819902420044
+epoch: 16
+training loss is 0.3071441352367401
+epoch: 17
+training loss is 0.29847511649131775
+epoch: 18
+training loss is 0.2956935167312622
+epoch: 19
+training loss is 0.2722460925579071
+epoch: 20
+training loss is 0.25439226627349854
+epoch: 21
+training loss is 0.2591167390346527
+epoch: 22
+training loss is 0.2508699595928192
+epoch: 23
+training loss is 0.24316750466823578
+epoch: 24
+training loss is 0.2377394288778305
+epoch: 25
+training loss is 0.2141762673854828
+epoch: 26
+training loss is 0.21345064043998718
+epoch: 27
+training loss is 0.2052144557237625
+epoch: 28
+training loss is 0.21387368440628052
+epoch: 29
+training loss is 0.1819247156381607
+epoch: 30
+training loss is 0.19549882411956787
+epoch: 31
+training loss is 0.19447192549705505
+epoch: 32
+training loss is 0.17339849472045898
+epoch: 33
+training loss is 0.22356660664081573
+epoch: 34
+training loss is 0.1466127187013626
+epoch: 35
+training loss is 0.14415709674358368
+epoch: 36
+training loss is 0.1569180190563202
+epoch: 37
+training loss is 0.14867757260799408
+epoch: 38
+training loss is 0.14410527050495148
+epoch: 39
+training loss is 0.16423019766807556
+epoch: 40
+training loss is 0.1590534895658493
+epoch: 41
+training loss is 0.12041782587766647
+epoch: 42
+training loss is 0.12202803045511246
+epoch: 43
+training loss is 0.1305016428232193
+epoch: 44
+training loss is 0.10500741750001907
+epoch: 45
+training loss is 0.11201700568199158
+epoch: 46
+training loss is 0.10238666087388992
+epoch: 47
+training loss is 0.10159176588058472
+epoch: 48
+training loss is 0.09557667374610901
+epoch: 49
+training loss is 0.09866763651371002
+epoch: 50
+training loss is 0.09014546126127243
+epoch: 51
+training loss is 0.08344541490077972
+epoch: 52
+training loss is 0.09492072463035583
+epoch: 53
+training loss is 0.08666901290416718
+epoch: 54
+training loss is 0.08735481649637222
+epoch: 55
+training loss is 0.07661418616771698
+epoch: 56
+training loss is 0.07013759762048721
+epoch: 57
+training loss is 0.08913103491067886
+epoch: 58
+training loss is 0.06678151339292526
+epoch: 59
+training loss is 0.09125418215990067
+epoch: 60
+training loss is 0.08699009567499161
+epoch: 61
+training loss is 0.07286932319402695
+epoch: 62
+training loss is 0.07264312356710434
+epoch: 63
+training loss is 0.08321769535541534
+epoch: 64
+training loss is 0.05820418521761894
+epoch: 65
+training loss is 0.0608857236802578
+epoch: 66
+training loss is 0.05804747715592384
+epoch: 67
+training loss is 0.07155714929103851
+epoch: 68
+training loss is 0.05576910823583603
+epoch: 69
+training loss is 0.05149926617741585
+epoch: 70
+training loss is 0.05370331555604935
+epoch: 71
+training loss is 0.06130213662981987
+epoch: 72
+training loss is 0.048165857791900635
+epoch: 73
+training loss is 0.08390216529369354
+epoch: 74
+training loss is 0.05166122689843178
+epoch: 75
+training loss is 0.08630694448947906
+epoch: 76
+training loss is 0.060502730309963226
+epoch: 77
+training loss is 0.04520678520202637
+epoch: 78
+training loss is 0.044680193066596985
+epoch: 79
+training loss is 0.04336652159690857
+epoch: 80
+training loss is 0.04693262651562691
+epoch: 81
+training loss is 0.044861797243356705
+epoch: 82
+training loss is 0.045955803245306015
+epoch: 83
+training loss is 0.06138661131262779
+epoch: 84
+training loss is 0.04141205921769142
+epoch: 85
+training loss is 0.042352478951215744
+epoch: 86
+training loss is 0.040213245898485184
+epoch: 87
+training loss is 0.04312187805771828
+epoch: 88
+training loss is 0.04129517078399658
+epoch: 89
+training loss is 0.04038764163851738
+epoch: 90
+training loss is 0.05011199787259102
+epoch: 91
+training loss is 0.03452487662434578
+epoch: 92
+training loss is 0.03987676650285721
+epoch: 93
+training loss is 0.052322108298540115
+epoch: 94
+training loss is 0.04069586470723152
+epoch: 95
+training loss is 0.03269004449248314
+epoch: 96
+training loss is 0.06095610186457634
+epoch: 97
+training loss is 0.03099689446389675
+epoch: 98
+training loss is 0.03320585563778877
+epoch: 99
+training loss is 0.033224694430828094
+[Valid TP is 581,FP is 145,TN is 618,FN is 182]
+Valid : SN is 0.7614678899082569,SP is 0.8099606815203145,Pr is 0.800275482093664,ACC is 0.7857142857142857,F1-score is 0.7803895231699127,MCC is 0.5721016303788109,
+ AUC is 0.8691994936178327, recall is 0.7614678899082569
+第9次独立测试
+epoch: 0
+training loss is 0.5943158268928528
+epoch: 1
+training loss is 0.5588739514350891
+epoch: 2
+training loss is 0.5250802040100098
+epoch: 3
+training loss is 0.5010808110237122
+epoch: 4
+training loss is 0.4791596233844757
+epoch: 5
+training loss is 0.47054558992385864
+epoch: 6
+training loss is 0.43411320447921753
+epoch: 7
+training loss is 0.4642973244190216
+epoch: 8
+training loss is 0.40801802277565
+epoch: 9
+training loss is 0.385375052690506
+epoch: 10
+training loss is 0.4187752306461334
+epoch: 11
+training loss is 0.37135013937950134
+epoch: 12
+training loss is 0.35546034574508667
+epoch: 13
+training loss is 0.3625122010707855
+epoch: 14
+training loss is 0.39093443751335144
+epoch: 15
+training loss is 0.29763028025627136
+epoch: 16
+training loss is 0.2879520058631897
+epoch: 17
+training loss is 0.308319628238678
+epoch: 18
+training loss is 0.29188111424446106
+epoch: 19
+training loss is 0.34288686513900757
+epoch: 20
+training loss is 0.25658783316612244
+epoch: 21
+training loss is 0.2722218930721283
+epoch: 22
+training loss is 0.2406052201986313
+epoch: 23
+training loss is 0.26193928718566895
+epoch: 24
+training loss is 0.2714231312274933
+epoch: 25
+training loss is 0.2253495156764984
+epoch: 26
+training loss is 0.21900910139083862
+epoch: 27
+training loss is 0.2091216892004013
+epoch: 28
+training loss is 0.20929226279258728
+epoch: 29
+training loss is 0.18253961205482483
+epoch: 30
+training loss is 0.2052963376045227
+epoch: 31
+training loss is 0.22724536061286926
+epoch: 32
+training loss is 0.1839856654405594
+epoch: 33
+training loss is 0.1757303923368454
+epoch: 34
+training loss is 0.2010086476802826
+epoch: 35
+training loss is 0.16448548436164856
+epoch: 36
+training loss is 0.1686098426580429
+epoch: 37
+training loss is 0.16110959649085999
+epoch: 38
+training loss is 0.13279876112937927
+epoch: 39
+training loss is 0.1764531135559082
+epoch: 40
+training loss is 0.1761426329612732
+epoch: 41
+training loss is 0.13599897921085358
+epoch: 42
+training loss is 0.13541455566883087
+epoch: 43
+training loss is 0.1667013168334961
+epoch: 44
+training loss is 0.12260179221630096
+epoch: 45
+training loss is 0.1085633710026741
+epoch: 46
+training loss is 0.10892924666404724
+epoch: 47
+training loss is 0.09008920937776566
+epoch: 48
+training loss is 0.13024236261844635
+epoch: 49
+training loss is 0.09594594687223434
+epoch: 50
+training loss is 0.088528573513031
+epoch: 51
+training loss is 0.10799096524715424
+epoch: 52
+training loss is 0.11921081691980362
+epoch: 53
+training loss is 0.09799947589635849
+epoch: 54
+training loss is 0.08825398981571198
+epoch: 55
+training loss is 0.08599904924631119
+epoch: 56
+training loss is 0.0835319459438324
+epoch: 57
+training loss is 0.10571745783090591
+epoch: 58
+training loss is 0.08156523108482361
+epoch: 59
+training loss is 0.06846138834953308
+epoch: 60
+training loss is 0.08855120837688446
+epoch: 61
+training loss is 0.07678207755088806
+epoch: 62
+training loss is 0.08440839499235153
+epoch: 63
+training loss is 0.07054168730974197
+epoch: 64
+training loss is 0.06289775669574738
+epoch: 65
+training loss is 0.0877789780497551
+epoch: 66
+training loss is 0.0765628069639206
+epoch: 67
+training loss is 0.07900353521108627
+epoch: 68
+training loss is 0.07693767547607422
+epoch: 69
+training loss is 0.06832870841026306
+epoch: 70
+training loss is 0.07095753401517868
+epoch: 71
+training loss is 0.08348294347524643
+epoch: 72
+training loss is 0.07322578132152557
+epoch: 73
+training loss is 0.06310152262449265
+epoch: 74
+training loss is 0.056452881544828415
+epoch: 75
+training loss is 0.07556500285863876
+epoch: 76
+training loss is 0.05601535737514496
+epoch: 77
+training loss is 0.0450654961168766
+epoch: 78
+training loss is 0.053177498281002045
+epoch: 79
+training loss is 0.07146249711513519
+epoch: 80
+training loss is 0.06141512840986252
+epoch: 81
+training loss is 0.05324918031692505
+epoch: 82
+training loss is 0.05206231027841568
+epoch: 83
+training loss is 0.04659738391637802
+epoch: 84
+training loss is 0.04836432635784149
+epoch: 85
+training loss is 0.05321124196052551
+epoch: 86
+training loss is 0.049912162125110626
+epoch: 87
+training loss is 0.04773646593093872
+epoch: 88
+training loss is 0.046341292560100555
+epoch: 89
+training loss is 0.043261464685201645
+epoch: 90
+training loss is 0.05086765065789223
+epoch: 91
+training loss is 0.04323423653841019
+epoch: 92
+training loss is 0.04423597455024719
+epoch: 93
+training loss is 0.04558340460062027
+epoch: 94
+training loss is 0.04826999083161354
+epoch: 95
+training loss is 0.04358484223484993
+epoch: 96
+training loss is 0.037019263952970505
+epoch: 97
+training loss is 0.04384244978427887
+epoch: 98
+training loss is 0.04317983612418175
+epoch: 99
+training loss is 0.04082147777080536
+[Valid TP is 562,FP is 125,TN is 638,FN is 201]
+Valid : SN is 0.7365661861074705,SP is 0.836173001310616,Pr is 0.8180494905385735,ACC is 0.7863695937090432,F1-score is 0.7751724137931034,MCC is 0.5756017266412702,
+ AUC is 0.8699638764688604, recall is 0.7365661861074705
+第10次独立测试
+epoch: 0
+training loss is 0.5998058319091797
+epoch: 1
+training loss is 0.5591504573822021
+epoch: 2
+training loss is 0.5242553949356079
+epoch: 3
+training loss is 0.5152839422225952
+epoch: 4
+training loss is 0.4815347492694855
+epoch: 5
+training loss is 0.45739516615867615
+epoch: 6
+training loss is 0.4354146420955658
+epoch: 7
+training loss is 0.413349986076355
+epoch: 8
+training loss is 0.4116763472557068
+epoch: 9
+training loss is 0.3842237889766693
+epoch: 10
+training loss is 0.3714708685874939
+epoch: 11
+training loss is 0.3511393964290619
+epoch: 12
+training loss is 0.3394344449043274
+epoch: 13
+training loss is 0.3406749367713928
+epoch: 14
+training loss is 0.3755447566509247
+epoch: 15
+training loss is 0.3359197974205017
+epoch: 16
+training loss is 0.3203319013118744
+epoch: 17
+training loss is 0.2870578169822693
+epoch: 18
+training loss is 0.3040924072265625
+epoch: 19
+training loss is 0.2705960273742676
+epoch: 20
+training loss is 0.2640427350997925
+epoch: 21
+training loss is 0.26494643092155457
+epoch: 22
+training loss is 0.2665969133377075
+epoch: 23
+training loss is 0.217678040266037
+epoch: 24
+training loss is 0.2313591092824936
+epoch: 25
+training loss is 0.21612288057804108
+epoch: 26
+training loss is 0.19958999752998352
+epoch: 27
+training loss is 0.18974904716014862
+epoch: 28
+training loss is 0.18396568298339844
+epoch: 29
+training loss is 0.19316795468330383
+epoch: 30
+training loss is 0.2224249392747879
+epoch: 31
+training loss is 0.1692858785390854
+epoch: 32
+training loss is 0.18776607513427734
+epoch: 33
+training loss is 0.18193119764328003
+epoch: 34
+training loss is 0.1813962459564209
+epoch: 35
+training loss is 0.16420221328735352
+epoch: 36
+training loss is 0.14141659438610077
+epoch: 37
+training loss is 0.14566077291965485
+epoch: 38
+training loss is 0.15094633400440216
+epoch: 39
+training loss is 0.14501072466373444
+epoch: 40
+training loss is 0.1457403004169464
+epoch: 41
+training loss is 0.12579195201396942
+epoch: 42
+training loss is 0.12215364724397659
+epoch: 43
+training loss is 0.12862341105937958
+epoch: 44
+training loss is 0.11480765044689178
+epoch: 45
+training loss is 0.10483447462320328
+epoch: 46
+training loss is 0.1421530544757843
+epoch: 47
+training loss is 0.10849718749523163
+epoch: 48
+training loss is 0.08490406721830368
+epoch: 49
+training loss is 0.10631272196769714
+epoch: 50
+training loss is 0.09384413063526154
+epoch: 51
+training loss is 0.10506360232830048
+epoch: 52
+training loss is 0.10489649325609207
+epoch: 53
+training loss is 0.08757822215557098
+epoch: 54
+training loss is 0.08067237585783005
+epoch: 55
+training loss is 0.08361492305994034
+epoch: 56
+training loss is 0.07009285688400269
+epoch: 57
+training loss is 0.10317490249872208
+epoch: 58
+training loss is 0.09696824848651886
+epoch: 59
+training loss is 0.06630321592092514
+epoch: 60
+training loss is 0.07130888849496841
+epoch: 61
+training loss is 0.08564737439155579
+epoch: 62
+training loss is 0.06083693355321884
+epoch: 63
+training loss is 0.05759782716631889
+epoch: 64
+training loss is 0.07224547117948532
+epoch: 65
+training loss is 0.051545560359954834
+epoch: 66
+training loss is 0.05155288055539131
+epoch: 67
+training loss is 0.07069966942071915
+epoch: 68
+training loss is 0.07199624925851822
+epoch: 69
+training loss is 0.048358891159296036
+epoch: 70
+training loss is 0.07158259302377701
+epoch: 71
+training loss is 0.054346174001693726
+epoch: 72
+training loss is 0.06294216960668564
+epoch: 73
+training loss is 0.05571231618523598
+epoch: 74
+training loss is 0.04746625944972038
+epoch: 75
+training loss is 0.05320313945412636
+epoch: 76
+training loss is 0.0479087308049202
+epoch: 77
+training loss is 0.051368147134780884
+epoch: 78
+training loss is 0.05634714663028717
+epoch: 79
+training loss is 0.045066893100738525
+epoch: 80
+training loss is 0.04913298785686493
+epoch: 81
+training loss is 0.0360427051782608
+epoch: 82
+training loss is 0.037364277988672256
+epoch: 83
+training loss is 0.037249207496643066
+epoch: 84
+training loss is 0.06688723713159561
+epoch: 85
+training loss is 0.03659709542989731
+epoch: 86
+training loss is 0.044072967022657394
+epoch: 87
+training loss is 0.037018273025751114
+epoch: 88
+training loss is 0.036932528018951416
+epoch: 89
+training loss is 0.03263861685991287
+epoch: 90
+training loss is 0.04019854962825775
+epoch: 91
+training loss is 0.05152136832475662
+epoch: 92
+training loss is 0.0386035218834877
+epoch: 93
+training loss is 0.03586674854159355
+epoch: 94
+training loss is 0.03543764352798462
+epoch: 95
+training loss is 0.03628155216574669
+epoch: 96
+training loss is 0.03189291059970856
+epoch: 97
+training loss is 0.029282808303833008
+epoch: 98
+training loss is 0.0320618711411953
+epoch: 99
+training loss is 0.03526386246085167
+[Valid TP is 557,FP is 124,TN is 639,FN is 206]
+Valid : SN is 0.7300131061598951,SP is 0.8374836173001311,Pr is 0.8179148311306902,ACC is 0.783748361730013,F1-score is 0.7714681440443213,MCC is 0.5708026568681897,
+ AUC is 0.8739678684368285, recall is 0.7300131061598951
+ind test Mean metric : SN is 0.760,SP is 0.815,Pr is 0.805,ACC is 0.788,F1-score is 0.781,MCC is 0.577,AUC is 0.872
+ind test std metric : SN is 0.0207,SP is 0.0161,Pr is 0.0096,ACC is 0.0032,F1-score is 0.0068,MCC is 0.0057,AUC is 0.0017
